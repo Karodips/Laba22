@@ -32,7 +32,7 @@ int main()
 
 	ofile.close();
 
-	cout << "Результат смотреть в файле file.txt в папке проекта " << endl;
+	cout << "Результат смотреть в файле " << file << ".txt в папке проекта " << endl;
 
 	system("pause");
 	return 0;
